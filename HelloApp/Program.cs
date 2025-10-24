@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("hello");
+        Console.WriteLine("hello everyone");
     }
     private static void GreetWhite()
     {
